@@ -1,0 +1,11 @@
+=========> NerdTree
+Lexplore!
+
+=========> bufexplorer
+vim-vinegar
+
+=========> ctrlP
+:vs **/*<filename><Tab>
+
+=========>open file under_cursor
+nnoremap gf :vertical wincmd f<CR>
