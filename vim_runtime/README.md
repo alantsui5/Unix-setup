@@ -1,5 +1,5 @@
-# VIM RC
+# VIMRC
 
-> This vimrc is forked from amix/vimrc with modification, removing packages for my own use
+> The Vim configuration moved to vimSettings
 <br>
 > moved to https://github.com/heihaho/vimSettings
