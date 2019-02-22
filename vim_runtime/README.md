@@ -1,5 +1,4 @@
 # VIMRC
 
-> The Vim configuration moved to vimSettings
+> The Vim configuration is moved to [vimSettings](https://github.com/heihaho/vimSettings)
 <br>
-> moved to https://github.com/heihaho/vimSettings
